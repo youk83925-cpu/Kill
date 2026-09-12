@@ -1,0 +1,12 @@
+{
+  "showAnnouncement": false,
+  "announcementText": "⚠ New V2 Update Available!",
+
+  "showContactButton": false,
+  "contactButtonText": "CONTACT ME",
+  "contactButtonUrl": "h",
+
+  "showAnnouncementButton": false,
+  "announcementButtonText": "DOWNLOAD MOD",
+  "announcementButtonUrl": "https://yourdownloadlink.com"
+}
