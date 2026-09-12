@@ -2,11 +2,11 @@
   "showAnnouncement": false,
   "announcementText": "⚠ New V2 Update Available!",
 
-  "showContactButton": false,
+  "showContactButton": ture,
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "h",
 
-  "showAnnouncementButton": false,
+  "showAnnouncementButton": ture,
   "announcementButtonText": "DOWNLOAD MOD",
   "announcementButtonUrl": "https://yourdownloadlink.com"
 }
